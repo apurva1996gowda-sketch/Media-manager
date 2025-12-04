@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <AppBar>
-        <Toolbar></Toolbar>
+      <AppBar sx={{position:'static'}}>
+        <Toolbar>app</Toolbar>
       </AppBar>
     </>
   )
